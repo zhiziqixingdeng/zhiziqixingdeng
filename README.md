@@ -15,7 +15,7 @@ github名:zhiziqixingdeng（质子七星灯）
 
 也负责维护班级里面的~~核平~~和平
 
-==目前在这些网站上驻扎==
+### 目前在这些网站上驻扎
 
 luogu.com.cn zhizi6
 
@@ -23,9 +23,10 @@ github.com zhiziqixingdeng
 
 hack.chat zhizi
 
-==仇敌挺多==
+### 仇敌挺多
 
 但是我不想和那些仇敌:
+
 1.认为技术没用，只想玩游戏的
 
 2.歧视某一些人的人
