@@ -7,7 +7,7 @@ github名:zhiziqixingdeng（质子七星灯）
 
 编程语言（正在学习）：Python
 
-==目前工作（没工资哈)==
+### 目前工作（没工资哈)
 
 在自己的github上写写代码
 
