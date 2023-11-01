@@ -1,36 +1,44 @@
-### Hi there 👋
-网名:质子
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=NIHAOAWA.)](https://git.io/typing-svg) 
 
-github名:zhiziqixingdeng（质子七星灯）
+# 个人信息
 
-编程语言（熟练掌握）：c++，HTML
+网名：zhizi
 
-编程语言（正在学习）：Python
+账号：有GitHub、luogu等账号
 
-### 目前工作（没工资哈)
+年龄：小学5年级
 
-在自己的github上写写代码
+# 个人介绍
 
-目前还是一个班级市场上有名的人
+一个不小心接触到代码的质子。
 
-也负责维护班级里面的~~核平~~和平
+## 爱好
 
-### 目前在这些网站上驻扎
+- 桥牌
+- c++
+- ~~偷吃巧克力~~
 
-luogu.com.cn zhizi6
 
-github.com zhiziqixingdeng
+## 一些在生活中的争执
 
-hack.chat zhizi
+- 与网上的nc斗嘴
+  
+- 与一个爱炫耀的网红和她的脑残粉，帮助你好干
 
-### 仇敌挺多
+# 友情链接
 
-但是我不想和那些仇敌:
+[PiationESL's Blog](https://imnt.or.td)
 
-1.认为技术没用，只想玩游戏的
+[你好的Blog](https://nihao.imnt.or.td)
 
-2.歧视某一些人的人
+[ETO_Chat](https://chat.imnt.or.td)
 
-3.只能沉浸于自己的想象中的人
+# 其它
 
-~~开学，不能上传很多代码了~~
+## README版本
+
+该版本为v2.0.1
+
+## 感谢
+
+感谢你好同意我使用这个排版!
